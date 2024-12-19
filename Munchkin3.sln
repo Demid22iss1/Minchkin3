@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Munchkin3", "Munchkin3\Munchkin3.csproj", "{75D360CF-96DC-40CE-82D8-CC94C870EB88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{BDA2D6EC-D54C-40BC-9073-EF0AA495D386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75D360CF-96DC-40CE-82D8-CC94C870EB88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D360CF-96DC-40CE-82D8-CC94C870EB88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D360CF-96DC-40CE-82D8-CC94C870EB88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D360CF-96DC-40CE-82D8-CC94C870EB88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDA2D6EC-D54C-40BC-9073-EF0AA495D386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA2D6EC-D54C-40BC-9073-EF0AA495D386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA2D6EC-D54C-40BC-9073-EF0AA495D386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA2D6EC-D54C-40BC-9073-EF0AA495D386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D479BCBB-3781-40FC-9E54-5CFF31B26A85}
+	EndGlobalSection
+EndGlobal

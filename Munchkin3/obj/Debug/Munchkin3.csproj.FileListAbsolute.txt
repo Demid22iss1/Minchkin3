@@ -1,0 +1,14 @@
+C:\Users\п\source\repos\Munchkin3\Munchkin3\bin\Debug\Munchkin3.exe.config
+C:\Users\п\source\repos\Munchkin3\Munchkin3\bin\Debug\Munchkin3.exe
+C:\Users\п\source\repos\Munchkin3\Munchkin3\bin\Debug\Munchkin3.pdb
+C:\Users\п\source\repos\Munchkin3\Munchkin3\obj\Debug\Munchkin3.csproj.AssemblyReference.cache
+C:\Users\п\source\repos\Munchkin3\Munchkin3\obj\Debug\MainWindow.g.cs
+C:\Users\п\source\repos\Munchkin3\Munchkin3\obj\Debug\App.g.cs
+C:\Users\п\source\repos\Munchkin3\Munchkin3\obj\Debug\Munchkin3_MarkupCompile.cache
+C:\Users\п\source\repos\Munchkin3\Munchkin3\obj\Debug\MainWindow.baml
+C:\Users\п\source\repos\Munchkin3\Munchkin3\obj\Debug\Munchkin3.g.resources
+C:\Users\п\source\repos\Munchkin3\Munchkin3\obj\Debug\Munchkin3.Properties.Resources.resources
+C:\Users\п\source\repos\Munchkin3\Munchkin3\obj\Debug\Munchkin3.csproj.GenerateResource.cache
+C:\Users\п\source\repos\Munchkin3\Munchkin3\obj\Debug\Munchkin3.csproj.CoreCompileInputs.cache
+C:\Users\п\source\repos\Munchkin3\Munchkin3\obj\Debug\Munchkin3.exe
+C:\Users\п\source\repos\Munchkin3\Munchkin3\obj\Debug\Munchkin3.pdb
